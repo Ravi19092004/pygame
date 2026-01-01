@@ -3,7 +3,8 @@
 A classic Snake game implementation built with Python and Pygame.
 
 ## 📺 Demo
-[Watch Gameplay Video](snake%20game.mp4)
+<video src="snake%20game.mp4" controls="controls" style="max-width: 100%">
+</video>
 
 ## ✨ Features
 - **Classic Gameplay**: Navigate the snake to eat food and grow.
