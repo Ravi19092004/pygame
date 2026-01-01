@@ -3,7 +3,7 @@
 A classic Snake game implementation built with Python and Pygame.
 
 ## 📺 Demo
-<video src="snake%20game.mp4" controls="controls" style="max-width: 100%">
+<video src="snake game.mp4" controls="controls" style="max-width: 100%">
 </video>
 
 ## ✨ Features
